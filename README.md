@@ -1,0 +1,1 @@
+This file includes a Power BI dashboard showcasing cricket player statistics up to IPL 2020. It features a CSV dataset of cricket players and incorporates the IPL logo for a polished and professional presentation.
