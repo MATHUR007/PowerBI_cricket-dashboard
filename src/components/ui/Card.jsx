@@ -1,7 +1,7 @@
-// src/components/ui/Card.jsx
+// src/components/ui/StatCard.jsx
 import React from "react";
 
-const Card = ({ title, value, icon }) => {
+const StatCard = ({ title, value, icon }) => {
   return (
     <div className="bg-white shadow-md rounded-2xl p-4 flex items-center justify-between hover:scale-105 transition-transform">
       <div>
@@ -13,4 +13,4 @@ const Card = ({ title, value, icon }) => {
   );
 };
 
-export default Card;
+export default StatCard;
