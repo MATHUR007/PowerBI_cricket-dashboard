@@ -68,3 +68,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Project Title: IPL Player Comparison Dashboard
+
+Description:
+Developed a dynamic and interactive web application to compare IPL players' statistics using React.js. The project leverages modern web development tools and libraries to provide a seamless user experience for cricket enthusiasts. The application allows users to select teams and players, view their detailed statistics, and compare their performance side-by-side.
+
+Key Features:
+
+Player Comparison Interface:
+
+Users can select two players from the same team and compare their statistics, such as matches played, runs scored, batting average, strike rate, wickets taken, and more.
+The comparison is displayed in a visually appealing grid format.
+Team and Player Selection:
+
+Dropdown menus for selecting teams and players, implemented using reusable React components like Select.
+Data Management:
+
+Player data is stored in a structured JSON file (data.json), which includes detailed statistics for players across all IPL teams.
+Responsive Design:
+
+Styled using Tailwind CSS to ensure the application is responsive and visually consistent across devices.
+Performance Monitoring:
+
+Integrated web-vitals to measure and monitor the app's performance metrics.
+Build and Deployment:
+
+Configured with Create React App and enhanced using CRACO for custom configurations.
+Supports production builds optimized for performance.
+Technologies Used:
+
+Frontend Framework: React.js (with hooks for state management)
+Styling: Tailwind CSS
+Build Tool: Create React App (CRA) with CRACO for custom configurations
+Testing: React Testing Library and Jest
+Performance Monitoring: Web Vitals
+Version Control: Git
+
